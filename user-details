@@ -1,0 +1,103 @@
+{
+  "__typename": "User",
+  "id": "VXNlcjoxNTYyMDM4ODU4OTg4MDY0NzY4",
+  "rest_id": "1562038858988064768",
+  "affiliates_highlighted_label": {},
+  "has_graduated_access": true,
+  "is_blue_verified": true,
+  "profile_image_shape": "Circle",
+  "legacy": {
+    "can_dm": true,
+    "can_media_tag": true,
+    "created_at": "Tue Aug 23 11:27:52 +0000 2022",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "PhD musicology/Teacher/Turkish woman/\nPosting #humor #art #cool #inspiring #memes #motivation content.\nDM for credit\nI'm here to spread beauties and humor.",
+    "entities": {
+      "description": { "urls": [] },
+      "url": {
+        "urls": [
+          {
+            "display_url": "instagram.com/thefigen/",
+            "expanded_url": "https://www.instagram.com/thefigen/",
+            "url": "https://t.co/Cp75iLJ8XY",
+            "indices": [0, 23]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 111855,
+    "followers_count": 1000309,
+    "friends_count": 10,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 5907,
+    "location": "",
+    "media_count": 4831,
+    "name": "Figen",
+    "normal_followers_count": 1000309,
+    "pinned_tweet_ids_str": [],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1562038858988064768/1664828989",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1645880810958929921/8mi_I17M_normal.jpg",
+    "profile_interstitial_type": "",
+    "screen_name": "TheFigen_",
+    "statuses_count": 8825,
+    "translator_type": "none",
+    "url": "https://t.co/Cp75iLJ8XY",
+    "verified": false,
+    "want_retweets": false,
+    "withheld_in_countries": []
+  },
+  "professional": {
+    "rest_id": "1577454623266422784",
+    "professional_type": "Creator",
+    "category": [
+      {
+        "id": 478,
+        "name": "Advertising & Marketing Agency",
+        "icon_name": "IconBriefcaseStroke"
+      }
+    ]
+  },
+  "super_follow_eligible": true,
+  "smart_blocked_by": false,
+  "smart_blocking": false,
+  "legacy_extended_profile": {
+    "birthdate": {
+      "day": 24,
+      "month": 10,
+      "visibility": "Public",
+      "year_visibility": "Self"
+    }
+  },
+  "is_profile_translatable": false,
+  "has_hidden_likes_on_profile": false,
+  "has_hidden_subscriptions_on_profile": false,
+  "verification_info": {
+    "is_identity_verified": false,
+    "reason": {
+      "description": {
+        "text": "This account is verified. Learn more",
+        "entities": [
+          {
+            "from_index": 26,
+            "to_index": 36,
+            "ref": {
+              "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "url_type": "ExternalUrl"
+            }
+          }
+        ]
+      },
+      "verified_since_msec": "1686352272421"
+    }
+  },
+  "highlights_info": {
+    "can_highlight_tweets": true,
+    "highlighted_tweets": "0"
+  },
+  "business_account": {},
+  "creator_subscriptions_count": 2
+}
